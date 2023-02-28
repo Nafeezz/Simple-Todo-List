@@ -1,0 +1,28 @@
+#todo-container{
+    border: 1px solid rgb(148, 142, 142);
+    width: 300px;
+    height: 100px;
+    background-color: rgb(243, 154, 221);
+    margin-top: 20px;
+    text-align: center;
+    margin: 30px auto;
+    border-radius: 20px;
+}
+#todo-button{
+    text-align: center;
+    margin-top: 20px;   
+}
+.field-container{
+    margin-top: 20px;
+}
+.added-todo{
+    border: 1px solid rgb(3, 3, 44);
+    height: 50px;
+    width: 150px;
+    padding: 10px;
+    background-color: rgb(244, 236, 131);
+    border-radius: 20px;
+}
+.todo-list-container{
+  display: flex;
+}
